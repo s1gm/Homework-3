@@ -1,0 +1,15 @@
+.text-box>h3:first-child{
+    color: pink;
+}
+#greycol{
+    color: grey;
+}
+.text-box>div p {
+    color: red;
+}
+.text-box>p:nth-child(2n+1){
+    color: green;
+}
+.text-box .yellow{
+    color: yellow;
+}
